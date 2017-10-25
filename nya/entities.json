@@ -34,9 +34,10 @@
     },
     {
         "entity": "ANX (Hong Kong)",
-        "status": 2,
+        "status": 1,
         "twitter": "anx_intl",
-        "email": "support@anxintl.com"
+        "email": "support@anxintl.com",
+        "withdrawnUrl": "http://preview.mailerlite.com/d7z4j4/736750909043771386/o3p1/"
     },
     {
         "entity": "Bitangel.com / Chandler Guo (China)",
